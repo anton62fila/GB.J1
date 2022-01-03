@@ -84,7 +84,7 @@ class Plate {
 
     @Override
     public String toString() {
-        return "Food:" + food;
+        return "plate:" + food;
     }
 }
 
